@@ -1,1 +1,1 @@
-# task-mobile-programming
+# mobile-programming-assignment
